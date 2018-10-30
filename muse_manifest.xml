@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arohiranade.github.io" resolutions="1x" timestamp="1540702420348">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arohiranade.github.io" resolutions="1x" timestamp="1540872013943">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="274273816" ref="index"/>
-    <file name="contact.css" crc="4174493486" ref="contact"/>
-    <file name="mission-statement.css" crc="259313720" ref="mission-statement"/>
-    <file name="about-us.css" crc="394435005" ref="about-us"/>
-    <file name="store.css" crc="3915290212" ref="store"/>
-    <file name="about-alyssa.css" crc="3775816774" ref="about-alyssa"/>
-    <file name="process.css" crc="96039275" ref="process"/>
-    <file name="about-arohi.css" crc="3896357305" ref="about-arohi"/>
+    <file name="index.css" crc="4271137169" ref="index"/>
+    <file name="contact.css" crc="3932666365" ref="contact"/>
+    <file name="mission-statement.css" crc="371968400" ref="mission-statement"/>
+    <file name="about-us.css" crc="470880795" ref="about-us"/>
+    <file name="store.css" crc="4211911849" ref="store"/>
+    <file name="about-alyssa.css" crc="163687159" ref="about-alyssa"/>
+    <file name="process.css" crc="4052052556" ref="process"/>
+    <file name="about-arohi.css" crc="367544668" ref="about-arohi"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa"/>
@@ -24,14 +24,14 @@
   </folder>
   <folder name="images">
     <file name="pasted-svg-376.svg" crc="159243" seo="true" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="pasted svg 376_poster_.png" crc="3937072671" ref="index"/>
     <file name="pasted-svg-1584x806.svg" crc="90412094" seo="true" ref="index">
@@ -39,119 +39,119 @@
     </file>
     <file name="pasted svg 1584x806_poster_.png" crc="3937828009" ref="index"/>
     <file name="pasted-svg-91x91.svg" crc="4242666567" seo="true" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="pasted svg 91x91_poster_.png" crc="276956256" ref="index"/>
     <file name="pasted-svg-3762.svg" crc="238808365" seo="true" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="pasted svg 376_poster_2.png" crc="3798616468" ref="index"/>
     <file name="mission statement - unselected.png" crc="3923144364" seo="true" ref="index:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="about-alyssa" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="store" alt=""/>
-      <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="mission statement - selected.png" crc="3945479191" seo="true" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="about us - unselected.png" crc="282473870" seo="true" ref="index:mission-statement:store:process:contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
       <caption webpage="process" alt=""/>
       <caption webpage="store" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="about us - selected.png" crc="171267863" seo="true" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="process - unselected.png" crc="128457084" seo="true" ref="index:mission-statement:about-us:store:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="store" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="process - selected.png" crc="200521129" seo="true" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="store - unselected.png" crc="325166579" seo="true" ref="index:mission-statement:about-us:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="store - selected.png" crc="4164816073" seo="true" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="contact us - unselected.png" crc="3811932345" seo="true" ref="index:mission-statement:about-us:store:process:about-arohi:about-alyssa">
-      <caption webpage="process" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="mission-statement" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
     </file>
     <file name="contact us - selected.png" crc="493886418" seo="true" ref="index:mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="pasted-svg-589x210.svg" crc="118221549" seo="true" ref="mission-statement">
       <caption webpage="mission-statement" alt=""/>
@@ -162,13 +162,13 @@
     </file>
     <file name="pasted svg 1011494x782_poster_.png" crc="316760271" ref="mission-statement"/>
     <file name="pasted-svg-61063x58.svg" crc="505245915" seo="true" ref="mission-statement:about-us:store:process:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="store" alt=""/>
-      <caption webpage="mission-statement" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="pasted svg 61063x58_poster_.png" crc="376379252" ref="mission-statement"/>
     <file name="pasted-svg-566071x566.svg" crc="525810343" seo="true" ref="about-us:about-arohi">
@@ -177,8 +177,8 @@
     </file>
     <file name="pasted svg 566071x566_poster_.png" crc="4118742792" ref="about-us"/>
     <file name="pasted-svg-566071x5662.svg" crc="3800955932" seo="true" ref="about-us:about-alyssa">
-      <caption webpage="about-us" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
     <file name="pasted svg 566071x566_poster_2.png" crc="189501016" ref="about-us"/>
     <file name="pasted-svg-935913x177.svg" crc="4060820372" seo="true" ref="about-us">
@@ -186,29 +186,25 @@
     </file>
     <file name="pasted svg 935913x177_poster_.png" crc="4170651977" ref="about-us"/>
     <file name="pasted-svg-39217x153.svg" crc="469631092" seo="true" ref="about-us:store:contact:about-arohi:about-alyssa">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about-arohi" alt=""/>
-      <caption webpage="store" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="pasted svg 39217x153_poster_.png" crc="3972991605" ref="about-us"/>
     <file name="arohi ranade.png" crc="40352735" seo="true" ref="about-us:about-arohi:about-alyssa">
+      <caption webpage="about-alyssa" alt=""/>
       <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="about-alyssa" alt=""/>
     </file>
     <file name="alyssa leleux.png" crc="100177596" seo="true" ref="about-us:about-arohi:about-alyssa">
+      <caption webpage="about-alyssa" alt=""/>
+      <caption webpage="about-alyssa" alt=""/>
       <caption webpage="about-arohi" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="about-alyssa" alt=""/>
-      <caption webpage="about-alyssa" alt=""/>
     </file>
-    <file name="pasted-svg-1188638x952.svg" crc="4012165811" seo="true" ref="store">
-      <caption webpage="store" alt=""/>
-    </file>
-    <file name="pasted svg 1188638x952_poster_.png" crc="30855979" ref="store"/>
     <file name="exhibitplacard-crop-u1359.jpg" crc="4280900052" seo="true" ref="process">
       <caption webpage="process" alt=""/>
     </file>
@@ -257,13 +253,16 @@
       <caption webpage="about-alyssa" alt=""/>
     </file>
     <file name="pasted svg 1066x472_poster_.png" crc="4254959892" ref="about-alyssa"/>
+    <file name="store - coming soon!.png" crc="89884526" seo="true" ref="store">
+      <caption webpage="store" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="559363" seo="true" mt="1540699295775" redirect="true"/>
-  <file name="mission-statement.html" crc="3767340398" seo="true" mt="1540699271306" redirect="true"/>
-  <file name="about-us.html" crc="252052277" seo="true" mt="1540702212587" redirect="true"/>
-  <file name="store.html" crc="3833359225" seo="true" mt="1540699318832" redirect="true"/>
-  <file name="process.html" crc="203979563" seo="true" mt="1540699168584" redirect="true"/>
-  <file name="contact.html" crc="135903208" seo="true" mt="1540699707223" redirect="true"/>
-  <file name="about-arohi.html" crc="332211361" seo="true" mt="1540702312210" redirect="true"/>
-  <file name="about-alyssa.html" crc="3936052662" seo="true" mt="1540702352401" redirect="true"/>
+  <file name="index.html" crc="115781705" seo="true" mt="1540870193572" redirect="true"/>
+  <file name="mission-statement.html" crc="4147998642" seo="true" mt="1540870204506" redirect="true"/>
+  <file name="about-us.html" crc="346318066" seo="true" mt="1540870605582" redirect="true"/>
+  <file name="store.html" crc="12460935" seo="true" mt="1540870994234" redirect="true"/>
+  <file name="process.html" crc="330056238" seo="true" mt="1540871885225" redirect="true"/>
+  <file name="contact.html" crc="159726881" seo="true" mt="1540871966166" redirect="true"/>
+  <file name="about-arohi.html" crc="219936894" seo="true" mt="1540871784714" redirect="true"/>
+  <file name="about-alyssa.html" crc="4282066455" seo="true" mt="1540871642923" redirect="true"/>
 </manifest>
